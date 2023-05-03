@@ -12,4 +12,4 @@ _Холост_
 
 Вес **80**
 
-!(https://github.com/Mikhailusus/GitHub_Pages/blob/6dfe2e93d06079f6b13717679b71ca9a72fd826d/image-07-08-21-12-15.jpeg)
+![Foto](https://github.com/Mikhailusus/GitHub_Pages/blob/6dfe2e93d06079f6b13717679b71ca9a72fd826d/image-07-08-21-12-15.jpeg)
